@@ -5963,6 +5963,11 @@ local curated_attachments <const> = {
                         model = "csb_vagspeak",
                         type = "PED",
                     },
+                    {
+                        name = "Yung Ancestor",
+                        model = "csb_celeb_01",
+                        type = "PED",
+                    },
 
                 }
             },
@@ -7645,7 +7650,11 @@ local curated_attachments <const> = {
                         model = "ig_zimbor",
                         type = "PED",
                     },
-
+                    {
+                        name = "Yung Ancestor",
+                        model = "ig_celeb_01",
+                        type = "PED",
+                    },
 
                 }
             },
